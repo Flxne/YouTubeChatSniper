@@ -1,0 +1,4 @@
+pytchat
+requests
+colorama
+termcolor
